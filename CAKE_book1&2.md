@@ -60,6 +60,7 @@ A tear fell from my eye.
 Without looking, I blew the candle out with a single breath, submerging myself into the dark emptiness of my own bedroom.
 
 # THE HUSKY
+
 ### ACT I**:** FRIENDS
 
 \~~~
@@ -178,7 +179,7 @@ _I wonder who he is?_
 
 \~~~
 
-# Charlie
+## Charlie
 
 "And here we are!" Dill shouted with excitement, stretching both his hands out, focusing on the house before me.
 
@@ -572,7 +573,7 @@ I smiled, drifting into a deep sleep.
 
 \~~~
 
-# Skyler
+## Skyler
 
 A little bit of sunlight shined through the blinds and hit me in the face, waking me from slumber. I yawned and sat up in bed feebly, rubbing my eyes. I can't lie, the bed was super comfy. Another pro to add to my list of the pro and cons of CIVA. They're almost tied now.
 
@@ -4408,7 +4409,7 @@ We skipped down the orange-and-red-tinted landscape the rest of the way, looking
 
 \~~~
 
-# Charlie
+## Charlie
 
 After our 3-5 PM shift was over at Amber's, Sky and I journeyed to the local grocery store in search of our disguises. Already, we could see orange and black posters all over the front windows, advertising Halloween costumes and festivities. We pulled out a shopping basket from the stack, entering through the glass sliding doors and into the fluorescent-lit marketplace.
 
